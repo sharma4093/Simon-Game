@@ -1,7 +1,11 @@
 body {
   text-align: center;
 /*   background-color: #011F3F; */
-  background-img:url("1(5).jpg");
+  background-img:url("qwerty.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  backgroung-size:cover;
 }
 
 #level-title {
