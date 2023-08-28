@@ -1,17 +1,15 @@
 body {
   text-align: center;
 /*   background-color: #011F3F; */
-  background-img:url("qwerty.jpg");
+  background-image:url("qwerty.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
   backgroung-size:cover;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
   color: #FEF2BF;
 }
 
