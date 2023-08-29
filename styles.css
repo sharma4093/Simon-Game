@@ -4,7 +4,8 @@ body {
   background-image:url("qwerty.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  backgroung-size:cover;
+  background-size:cover;
+  background-origin: border-box;
 }
 
 #level-title {
